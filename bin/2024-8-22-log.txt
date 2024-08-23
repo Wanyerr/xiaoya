@@ -1,0 +1,16 @@
+16-15-17 =>first log message!
+16-15-17 =>/home/ityb/code/example/callee/userservice.cc:main:40
+16:17:27 =>first log message!
+16:17:27 =>/home/ityb/code/example/callee/userservice.cc:main:40
+16:25:57 =>[error] first log message!
+16:25:57 =>[error] /home/ityb/code/example/callee/userservice.cc:main:40
+16:25:57 =>[info] service_name:UserServiceRpc
+16:25:57 =>[info] method_name:Login
+16:31:14 =>[info] first log message!
+16:31:14 =>[info] /home/ityb/code/example/callee/userservice.cc:main:40
+16:31:14 =>[info] service_name:UserServiceRpc
+16:31:14 =>[info] method_name:Login
+16:32:29 =>[error] first log message!
+16:32:29 =>[error] /home/ityb/code/example/callee/userservice.cc:main:40
+16:32:29 =>[info] service_name:UserServiceRpc
+16:32:29 =>[info] method_name:Login
